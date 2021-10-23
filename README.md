@@ -1,1 +1,1 @@
-AplikasiKalkulator
+KALKULATOR
